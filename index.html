@@ -75,6 +75,7 @@
             background-color: #3498DB;
             color: white;
             font-weight: bold;
+            cursor: pointer; 
         }
 
         tr:hover {
@@ -102,7 +103,7 @@
         }
 
         td:nth-child(2), th:nth-child(2) {
-            width: 250px;
+            width: 300px;
             text-align: left;
         }
 
@@ -112,7 +113,11 @@
         }
 
         td:nth-child(4), th:nth-child(4) {
-            width: 100px;
+            width: 50px;
+        }
+
+        td:nth-child(5), th:nth-child(5) {
+            width: 80px; 
         }
 
         .info {
@@ -129,7 +134,7 @@
         .pagination {
             display: flex;
             align-items: center;
-            justify-content: flex-end;
+            justify-content: center;
         }
 
         .page-button {
@@ -147,6 +152,19 @@
 
         .page-button:hover {
             background-color: #2980B9;
+        }
+
+        .page-number {
+            display: inline-block;
+            padding: 8px 12px;
+            border-radius: 5px;
+            margin: 0 5px;
+            cursor: pointer;
+            transition: box-shadow 0.3s;
+        }
+
+        .page-number:hover {
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
         }
 
         @media (max-width: 600px) {
@@ -195,6 +213,10 @@
             td:nth-child(4), th:nth-child(4) {
                 width: auto;
             }
+
+            td:nth-child(5), th:nth-child(5) {
+                width: auto;
+            }
         }
     </style>
 </head>
@@ -221,9 +243,10 @@
     <table id="dataTable">
         <thead>
             <tr>
-                <th>No</th>
-                <th>Kementerian/Lembaga/Badan (Instansi Pusat)</th>
+                <th onclick="sortTable('no')">No</th>
+                <th onclick="sortTable('instansi')">Kementerian/Lembaga/Badan (Instansi Pusat) <i class ="fas fa-sort"></i></th>
                 <th>Status Pengumuman</th>
+                <th>Sanggah</th>
                 <th>Tautan Portal</th>
             </tr>
         </thead>
@@ -263,11 +286,32 @@
             const paginatedData = filteredData.slice(startIndex, endIndex);
             paginatedData.forEach((item, index) => {
                 const row = document.createElement('tr');
-                row.innerHTML = `<td>${startIndex + index + 1}</td><td>${item.instansi}</td><td><span class="${item.status === 'Sudah Pengumuman' ? 'status-sudah' : 'status-belum'}">${item.status}</span></td><td><button onclick="window.open('${item.tautan}', '_blank')"><i class="fas fa-cloud-download-alt"></i> Unduh</button></td>`;
+                row.innerHTML = `<td>${startIndex + index + 1}</td>
+                                 <td>${item.instansi}</td>
+                                 <td><span class="${item.status === 'Sudah Pengumuman' ? 'status-sudah' : 'status-belum'}">${item.status}</span></td>
+                                 <td>${item.terimaSanggah}</td>
+                                 <td><button onclick="window.open('${item.tautan}', '_blank')"><i class="fas fa-cloud-download-alt"></i> Unduh</button></td>`;
                 tableBody.appendChild(row);
             });
             setupPagination(pageCount);
             updateInfo(startIndex, endIndex, totalRows);
+        }
+
+        let sortDirection = {
+            instansi: true,
+            terimaSanggah: true
+        };
+
+        function sortTable(column) {
+            const direction = sortDirection[column];
+            if (column === 'instansi') {
+                data.sort((a, b) => direction ? a.instansi.localeCompare(b.instansi) : b.instansi.localeCompare(a.instansi));
+                sortDirection.instansi = !direction;
+            } else if (column === 'terimaSanggah') {
+                data.sort((a, b) => direction ? a.terimaSanggah.localeCompare(b.terimaSanggah) : b.terimaSanggah.localeCompare(a.terimaSanggah));
+                sortDirection.terimaSanggah = !direction;
+            }
+            displayTable();
         }
 
         function setupPagination(pageCount) {
@@ -325,7 +369,6 @@
         function filterByStatus() {
             currentPage = 1;
             displayTable();
-            updateStatistics();
         }
 
         function updateStatistics() {
