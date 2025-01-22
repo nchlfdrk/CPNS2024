@@ -2,346 +2,415 @@
     {
         "instansi": "Arsip Nasional Republik Indonesia (ANRI)",
         "tautan": "https://anri.go.id/storage/files/pengumuman_nomor_kp.01.0022025_tentang_kelulusan_akhir_seleksi_pasca_masa_sanggah_pengadaan_calon_pegawai_negeri_sipil_cpns_di_lingkungan_anri_formasi_tahun_2024_1737452297.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-"
     },
     {
         "instansi": "Kementerian Agama (KEMENAG)",
         "tautan": "https://cdn.kemenag.go.id/storage/archives/pengumuman-hasil-sanggah-seleksi-calon-pegawi-negeri-sipil-cpns-kementerian-agama-rebublik-indonesia-tahun-anggaran-2024pdf.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/1559"
     },
     {
         "instansi": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (KEMEN-ATR/BPN)",
         "tautan": "https://www.atrbpn.go.id/pengumuman/pengumuman-pasca-sanggah-hasil-akhir-cpns-ta-2024",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-"
     },
     {
         "instansi": "Kementerian Perdagangan (KEMENDAG)",
         "tautan": "https://rekrutmen.kemendag.go.id/cpns/uploads/berkas_pengumuman/1737440318988.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Kementerian Dalam Negeri Republik Indonesia (KEMENDAGRI)",
         "tautan": "https://infocasn.kemendagri.go.id/",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (KEMENDIKBUDRISTEK)",
         "tautan": "https://casn.kemdikbud.go.id/cpns/cpns2024",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Kementerian Pertahanan (KEMENHAN)",
         "tautan": "https://www.kemhan.go.id/ropeg/wp-content/uploads/2025/01/1.-PENGUMUMAN_HASIL-AKHIR-KELULUSAN_CPNS_TA._2024_PASCA_SANGGAH_22-01-2025.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-"
     },
     {
         "instansi": "Kementerian Perhubungan (KEMENHUB)",
         "tautan": "https://cpns.dephub.go.id/site/detail-pengumuman?pg=49f107567ac0b1182ba8872459fdc563",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Kementerian Kesehatan (KEMENKES)",
         "tautan": "https://casn.kemkes.go.id/documents24/cpns/Pengumuman_Hasil_Akhir_Seleksi_Pasca_Sanggah_Pada_Penerimaan_CPNS_2024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-"
     },
     {
         "instansi": "Kementerian Komunikasi dan Informatika (KEMENKOMINFO)",
         "tautan": "https://casn.kominfo.go.id/berkas/94aba7d4-7c73-44c1-94f6-7dbc02738a26",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Kementerian Keuangan (KEMENKEU)",
         "tautan": "https://rekrutmen.kemenkeu.go.id/pengumuman/71cac189-9b70-4dab-9d7a-d733abd96edb",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "4/-"
     },
     {
         "instansi": "Kementerian Koperasi dan Usaha Kecil dan Menengah (KEMENKOP-UKM)",
         "tautan": "https://kop.go.id/kepegawaian/?wndOlpwdu8H2rymo0NvqLGL44rdNYtjTXsQaBVhHCdi3E5wtLB",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Kementerian Koordinator Bidang Perekonomian (KEMENKO-PEREKONOMIAN)",
         "tautan": "https://rekrutmen.ekon.go.id/assets/downloads/cpns/Peng_10_Hasil_Akhir_Pasca_Sanggah_Seleksi_CPNS_Ekon_TA_2024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan (KEMENKO-PMK)",
         "tautan": "https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-01/Pengumuman%20Pasca%20Sanggah.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "None"
     },
     {
         "instansi": "Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan (KEMENKO-POLHUKAM)",
         "tautan": "https://polkam.go.id/casn-polhukam/pengumuman-cpns-2024/",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-"
     },
     {
         "instansi": "Kementerian Hukum dan Hak Asasi Manusia (KEMENKUMHAM)",
         "tautan": "https://casn.kemenkumham.go.id/",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Kementerian Pendayagunaan Aparatur Negara (KEMENPAN-RB)",
         "tautan": "https://www.menpan.go.id/site/download/file/6981-pengumuman-tentang-hasil-akhir-pasca-sanggah-seleksi-cpns-di-lingkungan-kementerian-panrb-tahun-anggaran-2024-jakarta-17-januari-2025",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Kementerian Pariwisata dan Ekonomi Kreatif (KEMENPAREKRAF)",
         "tautan": "https://kemenpar.go.id/pengumuman/pengumuman-hasil-akhir-pasca-sanggah-seleksi-calon-pegawai-negeri-sipil-cpns-di-lingkungan-kemenparekraf-tahun-anggaran-2024",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Kementerian Perindustrian (KEMENPERIN)",
         "tautan": "https://rekrutmen.kemenperin.go.id/",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/31"
     },
     {
         "instansi": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KEMEN-PPPA)",
         "tautan": "https://drive.google.com/file/d/191heMDXpUoFmy2P0hIbQPSrpkumY5NPR/view",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "None"
     },
     {
         "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat (KEMEN-PUPR)",
         "tautan": "https://pu.go.id/pengumuman",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Kementerian Pertanian (KEMENTAN)",
         "tautan": "https://casn.pertanian.go.id/cpns/2024/pengumuman/detil/pengumuman-hasil-akhir-pasca-sanggah-seleksi-cpns-kementerian-pertanian-tahun-2024",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/32"
     },
     {
         "instansi": "Kementerian Pemuda dan Olahraga (KEMENPORA)",
         "tautan": "https://image.kemenpora.go.id/files/pppk_file/2025/01/21/53/3608pengumuman-pasca-sanggah-hasil-akhir-cpns-2024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/7"
     },
     {
         "instansi": "Kementerian Sekretariat Negara (KEMENSETNEG)",
         "tautan": "https://cdn.setneg.go.id/_multimedia/document/20250120/00380038P-11Pansel-CPNS012025_Pengumuman_Hasil_Akhir_Pasca_Sanggah_Seleksi_CPNS_Kemensetneg_Tahun_2024_TTE__1_.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "1/35"
     },
     {
         "instansi": "Kementerian Sosial (KEMENSOS)",
         "tautan": "https://kemensos.go.id/",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Kementerian Ketenagakerjaan (KEMNAKER)",
         "tautan": "https://drive.kemnaker.go.id/index.php/s/xNGE3jEw8Np8yWq",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/17"
     },
     {
         "instansi": "Kementerian Luar Negeri (KEMLU)",
         "tautan": "https://e-casn.kemlu.go.id/assets/lib/00010%20Pengumuman%20Hasil%20Akhir%20Pascasanggah%20Seleksi%20CPNS%20Kemlu%20TA%202024-signed.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/53"
     },
     {
         "instansi": "Kementerian Energi dan Sumber Daya Mineral (KESDM)",
         "tautan": "https://casn.esdm.go.id/?pg=pengumuman",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Kementerian Kelautan dan Perikanan (KKP)",
         "tautan": "https://drive.google.com/file/d/1FaRIUQ7C5ETFOOdG11TlPv0CaIb5wFIe/view",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "1/9"
     },
     {
         "instansi": "Kementerian Lingkungan Hidup dan Kehutanan (KLHK)",
         "tautan": "https://drive.google.com/file/d/1A8I0Os8LD7M_0hgSHYAsK9jo7Bxlt6QE/view",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Komisi Pemberantasan Korupsi (KPK)",
         "tautan": "https://s3.ap-southeast-3.amazonaws.com/kpk-bucket-jkt/jpt/prod/dokumen_publik/2024/B2025%20-%20006%20-%20Pengumuman%20Kelulusan%20Pascasanggah%20Seleksi%20Penerimaan%20CPNS%20KPK%20Tahun%20Anggaran%202024.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAXRGLVZTY6HMLYDEQ%2F20250122%2Fap-southeast-3%2Fs3%2Faws4_request&X-Amz-Date=20250122T121429Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Signature=eae9f39b40bb0dbbdf90dad29f8d920d83e98ecdb6b4f0da89455199074c653a",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-/31"
     },
     {
         "instansi": "Badan Keamanan Laut (BAKAMLA)",
         "tautan": "https://drive.google.com/file/d/1jUI0JfSLWAqxPr84hrDTWUkXRsnFR9vF/view",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/8"
     },
     {
         "instansi": "Badan Karantina Indonesia (BARANTIN)",
         "tautan": "https://casn.karantinaindonesia.go.id/index.php/cpns",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/13"
     },
     {
         "instansi": "Badan Pangan Nasional (BAPANAS)",
         "tautan": "https://badanpangan.go.id/pengadaan-cpns-2024",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Badan Perencanaan Pembangunan Nasional (BAPPENAS)",
         "tautan": "https://rekrutmen.bappenas.go.id/file/news//pengumuman-004-hasil-akhir-pasca-sanggah-seleksi-pengadaan-pns.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-"
     },
     {
         "instansi": "Badan Nasional Pencarian dan Pertolongan (BASARNAS)",
         "tautan": "https://basarnas.go.id/p/cpns-basarnas-2024",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Badan Pengawas Pemilihan Umum (BAWASLU)",
         "tautan": "https://www.bawaslu.go.id/id/pengumuman/hasil-akhir-seleksi-pasca-sanggah-calon-pegawai-negeri-sipil-badan-pengawas-pemilihan",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/69"
     },
     {
         "instansi": "Badan Informasi Geospasial (BIG)",
         "tautan": "https://casn.big.go.id/#/pengumuman",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/12"
     },
     {
         "instansi": "Badan Intelijen Negara (BIN)",
         "tautan": "https://www.bin.go.id/Karir",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Badan Kependudukan dan Keluarga Berencana Nasional (BKKBN)",
         "tautan": "https://drive.google.com/drive/folders/1Yh5TSDRSaUgp3c5TSgrOcAiXp1xOGcjN",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/44"
     },
     {
         "instansi": "Badan Kepegawaian Negara (BKN)",
         "tautan": "https://www.bkn.go.id/unggahan/2025/01/Pengumuman-Hasil-Akhir-Pasca-Sanggah-CPNS-BKN-TA-2024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/17"
     },
     {
         "instansi": "Kementerian Investasi Dan Hilirisasi/ Badan Koordinasi Penanaman Modal (BKPM)",
         "tautan": "https://bkpm.go.id/storage/file/pdf/1737557015.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/13"
     },
     {
         "instansi": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)",
         "tautan": "https://content.bmkg.go.id/wp-content/uploads/R4-026-Pengumuman-Hasil-Akhir-Seleksi-CPNS-BMKG-2024-Pasca-Sanggah-Srikandi_sign.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/16"
     },
     {
         "instansi": "Badan Narkotika Nasional (BNN)",
         "tautan": "https://bnn.go.id/pengumuman-hasil-akhir-pasca-masa-sanggah-seleksi-pengadaan-calon-pegawai-negeri-sipil-cpns/",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/7"
     },
     {
         "instansi": "Badan Nasional Penanggulangan Bencana (BNPB)",
         "tautan": "https://www.bnpb.go.id/berita/pengumuman-hasil-akhir-pasca-sanggah-seleksi-calon-pegawai-negeri-sipil-cpns-badan-nasional-penanggulangan-bencana-tahun-anggaran-2024",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Badan Nasional Penanggulangan Terorisme (BNPT)",
         "tautan": "https://www.bnpt.go.id/pengumuman-tentang-hasil-kelulusan-akhir-seleksi-calon-pegawai-negeri-sipil-badan-nasional-penanggulangan-terorisme-tahunanggaran2024",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Badan Perlindungan Pekerja Migran Indonesia (BP2MI)",
         "tautan": "https://bp2mi.go.id/pengumuman-detail/hasil-akhir-pasca-sanggah-pengadaan-calon-pegawai-negeri-sipil-cpns-badan-pelindungan-pekerja-migran-indonesia-bp2mi-tahun-anggaran-2024",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/5"
     },
     {
         "instansi": "Badan Pembinaan Ideologi Pancasila (BPIP)",
         "tautan": "https://bpip.go.id/assets/file/pengumuman/2025/01/22/N0yRKV9p8Dy3OJNLVhGYAGhdfx2fcSZBk4yAQDUz.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/11"
     },
     {
         "instansi": "Badan Pemeriksa Keuangan (BPK)",
         "tautan": "https://rekrutmen-asn.bpk.go.id/wp-content/uploads/2025/01/3-S.Peng-Pengumuman-Tentang-Hasil-Akhir-Kelulusan-Seleksi-Pasca-Sanggah-dan-Pelaksanaan-Pemberkasan-Dokumen-Pengangkatan-CPNS-pada-Pelaksana-BPK-Formasi-Tahun-2024-SIGNED.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/24"
     },
     {
         "instansi": "Badan Pengawasan Keuangan dan Pembangunan (BPKP)",
         "tautan": "https://www.bpkp.go.id/assets/pengumuman/file/1/20250120174900%20Pengumuman%20Hasil%20Seleksi%20CPNS%20BPKP%20Pasca%20Sanggah_signed.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/128"
     },
     {
         "instansi": "Badan Pengawas Obat dan Makanan (BPOM)",
         "tautan": "https://casn.pom.go.id/storage/document/information/2e359e91-c98e-4279-b528-3da059ad7514",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/40"
     },
     {
         "instansi": "Badan Pusat Statistik (BPS)",
         "tautan": "https://casn.bps.go.id/assets/docs/cpns/Pengumuman-Hasil-CPNS-Pasca-Sanggah-BPS-TA-2024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/17"
     },
     {
         "instansi": "Badan Riset dan Inovasi Nasional (BRIN)",
         "tautan": "https://casn.brin.go.id/pages/pengumuman",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Badan Siber dan Sandi Negara (BSSN)",
         "tautan": "https://www.bssn.go.id/wp-content/uploads/2025/01/Pengumuman-Hasil-Pasca-Sanggah-Seleksi-Pengadaan-CPNS-BSSN_sign_signed.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/17"
     },
     {
         "instansi": "Kejaksaan Agung Republik Indonesia (KEJAGUNG RI)",
         "tautan": "https://rekrutmen.kejaksaan.go.id/pengumuman/cpns",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-"
     },
     {
         "instansi": "Lembaga Administrasi Negara (LAN)",
         "tautan": "https://lan.go.id/?page_id=18137",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/10"
     },
     {
         "instansi": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP)",
         "tautan": "https://lkppbhsiu-my.sharepoint.com/personal/bhu_lkpp_go_id/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbhu%5Flkpp%5Fgo%5Fid%2FDocuments%2FHumas%2FKonten%20website%2FCPNS%202024%2FPengumuman%20CPNS%20LKPP%20T%2EA%202024%20%28Final%29%2Epdf&parent=%2Fpersonal%2Fbhu%5Flkpp%5Fgo%5Fid%2FDocuments%2FHumas%2FKonten%20website%2FCPNS%202024&ga=1",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/27"
     },
     {
         "instansi": "Lembaga Perlindungan Saksi dan Korban (LPSK)",
         "tautan": "https://www.lpsk.go.id/publikasi/cm64p0m17001znml1qcdcwu5b",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Mahkamah Agung (MA)",
         "tautan": "https://www.mahkamahagung.go.id/media/12267",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "3/144"
     },
     {
         "instansi": "Otorita Ibu Kota Nusantara (OIKN)",
         "tautan": "https://www.ikn.go.id/storage/news/20250122-peng2-oikn-hasil-akhir-seleksi-cpns-oikn-tahun-2024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "-"
     },
     {
         "instansi": "Perpustakaan Nasional (PERPUSNAS)",
         "tautan": "https://casn.perpusnas.go.id/cpns",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/5"
     },
     {
         "instansi": "Sekretariat Jenderal Dewan Nasional Kawasan Ekonomi Khusus (SETJEN DENAS-KEK)",
         "tautan": "https://bit.ly/PengumumanHasilAkhirPascaSanggahSeleksiCPNS-KEK2024",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/4"
     },
     {
         "instansi": "Sekretariat Jenderal Dewan Perwakilan Daerah RI (SETJEN DPD RI)",
         "tautan": "https://www.dpd.go.id/media/Pengumuman-Hasil-Akhiri-Pasca-Sanggah-CPNS-Setjen-DPD-RI-TA-2024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/7"
     },
     {
         "instansi": "Sekretariat Jenderal Dewan Perwakilan Rakyat RI (SETJEN DPR RI)",
         "tautan": "https://www.dpr.go.id/casn",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     },
     {
         "instansi": "Sekretariat Jenderal Komisi Nasional Hak Asasi Manusia (SETJEN KOMNASHAM)",
         "tautan": "https://www.komnasham.go.id/seleksicpns/doc/PENGUMUMAN%20HASIL%20AKHIR%20PASCA%20SANGGAH%20CPNS%20KOMNAS%20HAM%20TA%202024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "None"
     },
     {
         "instansi": "Sekretariat Jenderal Komisi Yudisial (SETJEN KY)",
         "tautan": "https://www.komisiyudisial.go.id/storage/assets/uploads/files/2dOnw5g5_11.%20Pengumuman%20Hasil%20Akhir%20Pasca%20Sanggah%20Seleksi%20Pengadaan%20CPNS%20Sekretariat%20Jenderal%20Komisi%20Yudisial%20Tahun%202024_sign1_sign.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": "0/14"
     },
     {
         "instansi": "Sekretariat Jenderal Komisi Pemilihan Umum (SETJEN KPU)",
         "tautan": "https://www.kpu.go.id/dmdocument/173752755016_Pengumuman%20Hasil%20Akhir%20Pasca%20Sanggah%20Pengadaan%20CPNS%20TA%202024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Sekretariat Jenderal Majelis Permusyawaratan Rakyat RI (SETJEN MPR RI)",
         "tautan": "https://setjen.mpr.go.id/pengumuman/Pengumuman%20Kelulusan%20Pasca%20Sanggah%20Seleksi%20CPNS%20Setjen%20MPR%20RI%20Tahun%202024.pdf",
-        "status": "Sudah Pengumuman"
+        "status": "Sudah Pengumuman",
+        "terimaSanggah": 0
     },
     {
         "instansi": "Sekretariat Jenderal Dewan Ketahanan Nasional (SETJEN WANTANNAS)",
         "tautan": "https://www.wantannas.go.id/pengumuman",
-        "status": "Belum Pengumuman"
+        "status": "Belum Pengumuman",
+        "terimaSanggah": "Null"
     }
 ]
