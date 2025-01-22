@@ -151,7 +151,7 @@
     },
     {
         "instansi": "Komisi Pemberantasan Korupsi (KPK)",
-        "tautan": "https://rekrutmen.kpk.go.id/cpns/pengumuman",
+        "tautan": "https://s3.ap-southeast-3.amazonaws.com/kpk-bucket-jkt/jpt/prod/dokumen_publik/2024/B2025%20-%20006%20-%20Pengumuman%20Kelulusan%20Pascasanggah%20Seleksi%20Penerimaan%20CPNS%20KPK%20Tahun%20Anggaran%202024.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAXRGLVZTY6HMLYDEQ%2F20250122%2Fap-southeast-3%2Fs3%2Faws4_request&X-Amz-Date=20250122T121429Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Signature=eae9f39b40bb0dbbdf90dad29f8d920d83e98ecdb6b4f0da89455199074c653a",
         "status": "Sudah Pengumuman"
     },
     {
