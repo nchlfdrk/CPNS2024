@@ -163,9 +163,9 @@
     },
     {
         "instansi": "Kementerian Energi dan Sumber Daya Mineral (KESDM)",
-        "tautan": "https://casn.esdm.go.id/?pg=pengumuman",
-        "status": "Belum Pengumuman",
-        "terimaSanggah": "Null"
+        "tautan": "https://casn.esdm.go.id/?pg=pengumuman&id=260",
+        "status": "Sudah Pengumuman (Pra-Sanggah)",
+        "terimaSanggah": "Null (Pra-Sanggah)"
     },
     {
         "instansi": "Kementerian Kelautan dan Perikanan (KKP)",
